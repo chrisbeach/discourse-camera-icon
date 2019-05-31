@@ -1,0 +1,6 @@
+camera_icons:
+  type: list
+  list_type: compact
+  default: "fa-camera"
+  description:
+    en: "Included FontAwesome icon classes."
